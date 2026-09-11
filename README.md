@@ -55,8 +55,3 @@ src/
 - **Eliminar** usuario (`DELETE /api/users/:id`) con modal de confirmación.
 - Mensajes de éxito/error visibles tras cada operación.
 - Estilado con TailwindCSS 4, diseño responsivo.
-
-## Notas
-
-- El login/autenticación es opcional según el enunciado del taller y **no** está incluido en esta entrega.
-- Los errores devueltos por la API (p. ej. correo duplicado) se muestran directamente en el formulario.
