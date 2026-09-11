@@ -54,4 +54,5 @@ src/
 - **Actualizar** usuario (`PUT /api/users/:id`), contraseña opcional al editar.
 - **Eliminar** usuario (`DELETE /api/users/:id`) con modal de confirmación.
 - Mensajes de éxito/error visibles tras cada operación.
-- Estilado con TailwindCSS 4, diseño responsivo.
+- Estilado con TailwindCSS 4, diseño responsivo. 
+
